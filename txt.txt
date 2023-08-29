@@ -1,3 +1,6 @@
 This is my first file
 C'est la vie.
 ^^.
+This is my first file.
+C'est la vie.
+
