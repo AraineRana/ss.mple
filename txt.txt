@@ -1,6 +1,5 @@
 This is my first file
 C'est la vie.
 ^^.
-This is my first file.
-C'est la vie.
+I removed 4 and 5th but I added a 4th line
 
