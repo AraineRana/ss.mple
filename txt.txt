@@ -1,6 +1,6 @@
 This is my first file
 C'est la vie.
 ^^.
-This is my first file.
-C'est la vie.
+It"s nice meeting you
+Rosie the riveter
 
